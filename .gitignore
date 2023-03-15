@@ -1,0 +1,8 @@
+node_modules/
+.vscode
+scratch/
+data.csv
+images/
+bkp/
+resultsimages/
+jpgs/
